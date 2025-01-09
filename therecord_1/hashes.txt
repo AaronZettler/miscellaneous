@@ -1,0 +1,6 @@
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./hashes.txt
+076194decb89f4f228a5e1a93f7d1b38f5a631ce5eab245bfd60b8802e2f183c  ./hscript.sh
+2e8726c87524cff85d88d4981aafd3dc722833489113b0375874f2cf09214014  ./RecollectionConvoWithAna.txt
+4ba0963f0190d5e12cb4696f6a115f9c10851ada58067f34ee8371ddbf9600bb  ./therecord_1_hashes.xls
+72eb1289e2a8f0724ad75b434adae76eecd74f5715c6613efe05287b1068e3f5  ./WhatsApp Chat with Ana.zip
+93dd92d406fe9b9b629dadf7d81a9aad8da9a305a252ab1eaae3525bf75ae88e  ./WhatsApp Chat with Moritz.zip
